@@ -1,0 +1,2 @@
+INICIO
+El patrón 'a' aparece 10 veces en el texto.
